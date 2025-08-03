@@ -9,3 +9,4 @@
 - MCP Servers, creating useful mcp servers to work with my local machine
 - Incorporating LLM Models in Web Applications (HuggingFace)
 - Spanish :) que tal?
+- VIM Motions / NVIM, still stuck in vim mode
